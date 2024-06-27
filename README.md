@@ -11,10 +11,10 @@ Pendengar di kota Springfield dan Shelbyville memiliki preferensi yang berbeda. 
 
 # Deskripsi kolom:
 
-'userID' — ID pengguna
-'Track' — judul lagu
-'artist' — nama artis
-'genre'
-'City' — kota asal pengguna
-'time' — waktu saat lagu tersebut diputar
-'Day' — hari dalam seminggu
+'userID' — ID pengguna <br>
+'Track' — judul lagu <br>
+'artist' — nama artis <br>
+'genre' <br>
+'City' — kota asal pengguna <br>
+'time' — waktu saat lagu tersebut diputar <br>
+'Day' — hari dalam seminggu <br>
